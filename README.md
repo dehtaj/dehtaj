@@ -5,7 +5,7 @@ I'm a **Fullstack Developer** and **AI Enthusiast** with a passion for creating 
 ---
 
 ## 🔗 Connect with Me
-- **[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/dehtaj-shaik-43350721b/])**
+- **[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dehtaj-shaik-43350721b/)**
 - **[![Portfolio](https://img.shields.io/badge/Portfolio-ff6f61?style=flat-square&logo=google-chrome&logoColor=white)](https://dehtaj.vercel.app/)**
 
 ---
